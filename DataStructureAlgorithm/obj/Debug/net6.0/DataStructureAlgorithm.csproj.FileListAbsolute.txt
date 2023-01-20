@@ -1,0 +1,15 @@
+C:\Users\Sartaj khan\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\obj\Debug\net6.0\DataStructureAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Sartaj khan\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\obj\Debug\net6.0\DataStructureAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sartaj khan\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\obj\Debug\net6.0\DataStructureAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Sartaj khan\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\obj\Debug\net6.0\DataStructureAlgorithm.AssemblyInfo.cs
+C:\Users\Sartaj khan\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\obj\Debug\net6.0\DataStructureAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Sartaj khan\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\bin\Debug\net6.0\DataStructureAlgorithm.exe
+C:\Users\Sartaj khan\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\bin\Debug\net6.0\DataStructureAlgorithm.deps.json
+C:\Users\Sartaj khan\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\bin\Debug\net6.0\DataStructureAlgorithm.runtimeconfig.json
+C:\Users\Sartaj khan\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\bin\Debug\net6.0\DataStructureAlgorithm.dll
+C:\Users\Sartaj khan\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\bin\Debug\net6.0\DataStructureAlgorithm.pdb
+C:\Users\Sartaj khan\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\obj\Debug\net6.0\DataStructureAlgorithm.dll
+C:\Users\Sartaj khan\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\obj\Debug\net6.0\refint\DataStructureAlgorithm.dll
+C:\Users\Sartaj khan\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\obj\Debug\net6.0\DataStructureAlgorithm.pdb
+C:\Users\Sartaj khan\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\obj\Debug\net6.0\DataStructureAlgorithm.genruntimeconfig.cache
+C:\Users\Sartaj khan\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\obj\Debug\net6.0\ref\DataStructureAlgorithm.dll
