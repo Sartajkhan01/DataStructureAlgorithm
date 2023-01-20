@@ -56,6 +56,10 @@
                         detecting.DetectingAnagrams();
                         break;
                     case 7:
+                        PrimeNumbers prime = new PrimeNumbers();
+                        prime.PrimeNum();
+                        break;
+                    case 8:
                         end = false;
                         break;
                     default:
