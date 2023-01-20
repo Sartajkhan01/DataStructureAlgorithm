@@ -18,7 +18,7 @@
                         permutation.permutations();
                         break;
                     case 2:
-                        const string FILE_PATH = @"D:\RFP BATCH 157\AlgorithmProgram\Day16_and_17_AlgorithmPrograms\BinarySearchList.txt";
+                        const string FILE_PATH = @"C:\Users\Sartaj khan\source\repos\DataStructureAlgorithm\DataStructureAlgorithm\BinarySearch.txt";
                         BInarySearchProb search = new BInarySearchProb();
                         string input_String = File.ReadAllText(FILE_PATH);
                         string[] array = input_String.Split(',');
@@ -60,6 +60,10 @@
                         prime.PrimeNum();
                         break;
                     case 8:
+                        AnagramAndPalindrome anagramAndPalindrome = new AnagramAndPalindrome();
+                        anagramAndPalindrome.AnagramAndPalindromes();
+                        break;
+                    case 9:
                         end = false;
                         break;
                     default:
