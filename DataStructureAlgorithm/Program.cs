@@ -42,6 +42,12 @@
                         sorting.DisplayArray(array1);
                         break;
                     case 4:
+                        int[] array2 = { 56, 36, 98, 45, 12, 78, 49, 99 };
+                        BubbleSort.BubbleSorting(array2);
+                        Console.WriteLine("Sorted array");
+                        BubbleSort.DisplayArray(array2);
+                        break;
+                    case 5:
                         end = false;
                         break;
                     default:
