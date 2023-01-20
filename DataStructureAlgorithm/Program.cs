@@ -31,10 +31,10 @@
                             Console.WriteLine(key + " word is present in the file");
                         }
                         else
-                        {
-                            Console.WriteLine(key + " Word is  not present ");
-                        }
-                        break;
+                            {
+                                Console.WriteLine(key + " Word is  not present ");
+                            }
+                            break;
                     case 3:
                         String[] array1 = { "Baghel", "Cat", "English", "Vishwas", "Name", "Apple" };
                         InsertionSort sorting = new InsertionSort();
@@ -52,6 +52,10 @@
                         mergesorting.MergeSorting();
                         break;
                     case 6:
+                        AnagramDetection detecting = new AnagramDetection();
+                        detecting.DetectingAnagrams();
+                        break;
+                    case 7:
                         end = false;
                         break;
                     default:
