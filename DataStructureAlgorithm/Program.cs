@@ -36,6 +36,12 @@
                         }
                         break;
                     case 3:
+                        String[] array1 = { "Baghel", "Cat", "English", "Vishwas", "Name", "Apple" };
+                        InsertionSort sorting = new InsertionSort();
+                        sorting.Sorting(array1);
+                        sorting.DisplayArray(array1);
+                        break;
+                    case 4:
                         end = false;
                         break;
                     default:
