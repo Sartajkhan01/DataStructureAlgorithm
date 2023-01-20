@@ -48,6 +48,10 @@
                         BubbleSort.DisplayArray(array2);
                         break;
                     case 5:
+                        MergeSort mergesorting = new MergeSort();
+                        mergesorting.MergeSorting();
+                        break;
+                    case 6:
                         end = false;
                         break;
                     default:
